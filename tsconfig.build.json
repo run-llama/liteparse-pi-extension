@@ -5,7 +5,7 @@
     "declaration": true,
     "declarationMap": true,
     "sourceMap": true,
-    "noEmit": false,
+    "noEmit": false
   },
-  "exclude": ["node_modules", "dist", "**/*.test.ts", "eslint.config.ts"],
+  "exclude": ["node_modules", "dist", "**/*.test.ts", "eslint.config.ts"]
 }

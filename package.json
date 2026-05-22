@@ -1,6 +1,6 @@
 {
   "name": "@llamaindex/liteparse-pi-extension",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Extension for Pi agent which adds parsing, screenshotting and lexical search capabilities over unstructured documents",
   "license": "MIT",
   "author": {

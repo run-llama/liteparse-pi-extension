@@ -18,8 +18,8 @@ jobs:
 
       - name: Run formatter
         shell: bash
-        run: bun run prettier:check
+        run: bun run format:check
 
       - name: Run linter
         shell: bash
-        run: bun run lint
+        run: bun run lint:check

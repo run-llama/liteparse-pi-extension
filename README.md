@@ -9,6 +9,14 @@ images, and Office files in → text + spatial layout (bounding boxes) out. No
 LLMs, no cloud calls. This extension lets a pi agent reach for those
 capabilities the same way it would reach for `read` or `grep`.
 
+## Quickstart
+
+Install on Pi with:
+
+```bash
+pi install npm:@llamaindex/liteparse-pi-extension@latest
+```
+
 ## Tools
 
 | Tool                       | What it does                                                                                                                                                                                                                                                       |
